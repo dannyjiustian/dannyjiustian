@@ -34,7 +34,7 @@
   </b>
 </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="auto" alt="GIF" src="https://github.com/dannyjiustian/DannyJiustianProfile/assets/26474898/dd528fa0-d76e-49e6-ac1b-fab106cbd6f7">
+  <img align="right" top="500" height="250" width="auto" alt="GIF" src="https://github.com/dannyjiustian/dannyjiustian/assets/26474898/79d36ba3-48f1-48ab-a25e-7687e7f07954">
 </a>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dannyjiustian&label=Profile%20views&color=0e75b6&style=flat" alt="dannyjiustian" />
